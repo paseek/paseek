@@ -14,6 +14,8 @@
 
 ## Life
 
+<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/hqdefault.jpg" />
+
 <!--
 **paseek/paseek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
