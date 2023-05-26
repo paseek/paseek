@@ -10,7 +10,7 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/paseek/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="border: 1px solid tomato";/>
   </a>
 </div>
 
