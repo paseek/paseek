@@ -1,7 +1,7 @@
 # Привет, мое имя Павел :wave:
 
 Я фронтенд разработчик.
-В ![Age](https://img.shields.io/badge/40-лет-green) я осознал, что разработка интерфейсов доставляет мне удовольствие.
+В ![Age](https://img.shields.io/badge/40-лет-darkorange) я осознал, что разработка интерфейсов доставляет мне удовольствие.
 
 Помимо разработки, от которой я получаю массу удовольствия, я имею опыт управления проектами как в роли проджекта так и продукт менеджера, хорошо разбираюсь в диджитал маркетинге, могу быть аналитиком и тестировщиком. 
 Все это дает мне возможность видеть код не только как разработчик. 
@@ -14,7 +14,8 @@
 
 ## Life
 
-<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/hqdefault.jpg" />
+<img align="right" alt="Bred the penguin chillin' by the fire." width="250" src="img/hqdefault.jpg" />
+
 
 <!--
 **paseek/paseek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
