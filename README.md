@@ -1,6 +1,6 @@
 # Привет, мое имя Павел :wave:
 
-<img align="right" alt="pixel watermelon" width="310" src="img/wm-small.png" />
+<img align="right style="border: 1px solid tomato" alt="pixel watermelon" width="310" src="img/wm-small.png" />
 
 Я фронтенд разработчик.
 В ![Age](https://img.shields.io/badge/40-лет-darkorange) я осознал, что разработка интерфейсов доставляет мне удовольствие.
@@ -8,7 +8,7 @@
 Помимо разработки я имею опыт управления проектами как в роли проджекта так и продукт менеджера, разбираюсь в диджитал маркетинге, могу быть аналитиком и тестировщиком. 
 Все это дает мне возможность видеть код не только как разработчик. 
 
-<div id="badges" style="border: 1px solid tomato">
+<div id="badges">
   <a href="https://www.linkedin.com/in/paseek/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
