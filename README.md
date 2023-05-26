@@ -15,6 +15,24 @@
 
 
 ## Life
+:shipit: [**МАТИ**][rgtu] Степень магистра, инжереная защита окружающей среды.
+:shipit: [**Rambler**][r0] менеджер проектов
+:shipit: [**V3Toys**][v3] руководитель проектов
+:shipit: [**ActivityGroup**][actgr] проджект менеджер
+:shipit: [**eFon**][efon] веб разработчик
+
+
+[rgtu]: https://www.mati-rgtu.org/
+[ro]: https://rambler.ru
+[v3]: https://v3toys.ru
+[actgr]: https://activbtl.ru
+[efon]: https://efon.ru
+
+
+
+
+Moscow State Aviation Technological University
+master’s degree, Environmental Engineering
 
 
 
