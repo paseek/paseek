@@ -8,9 +8,9 @@
 Помимо разработки я имею опыт управления проектами как в роли проджекта так и продукт менеджера, разбираюсь в диджитал маркетинге, могу быть аналитиком и тестировщиком. 
 Все это дает мне возможность видеть код не только как разработчик. 
 
-<div id="badges">
+<div id="badges" style="border: 1px solid tomato">
   <a href="https://www.linkedin.com/in/paseek/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="border: 1px solid tomato";/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
