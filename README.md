@@ -1,8 +1,14 @@
 # Привет, мое имя Павел :wave:
 
-<div style="border: 1px solid black;">
-  <img align="right" alt="pixel watermelon" width="310" src="img/wm-small.png" />
+<div class="main-image>
+<img align="right" alt="pixel watermelon" width="210" src="img/wm-small.png" />
 </div>
+                                                                            
+<style>
+    .main-image {
+        border: 1px solid black;
+    }
+</style>
 
 Я фронтенд разработчик.
 В ![Age](https://img.shields.io/badge/40-лет-darkorange) я осознал, что разработка интерфейсов доставляет мне удовольствие.
