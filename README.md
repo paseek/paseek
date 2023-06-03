@@ -11,10 +11,29 @@
 </div>
 
 Помимо разработки я имею опыт управления проектами как в роли проджекта так и продукт менеджера, разбираюсь в диджитал маркетинге, могу быть аналитиком и тестировщиком. 
-Все это дает мне возможность видеть код не только как разработчик. 
+Все это дает мне возможность видеть код не только как разработчик.
+<br>
 
 ## Опыт работы
 :shipit: [**eFon**][efon] фронтенд-разработчик
+<br>
+
+## Навыки
+![HTML](https://img.shields.io/badge/Html-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/Css-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![SASS](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+
+## &#x1f4c8; GitHub Stats
+<br>
+<a href="https://github.com/paseek">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paseek&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/paseek">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=paseek&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+</a>
 
 ## Опыт работы не связанный с разработкой.
 :shipit: [**Rambler**][r1] менеджер проектов<br>
