@@ -1,8 +1,8 @@
-# Привет, мое имя Павел :wave:
+# Привет, меня зовут Павел :wave:
 <img align="right" alt="pixel watermelon" width="210" src="img/wm-small.png" style="border: 2px solid red;" />
 
 Я фронтенд разработчик.
-В ![Age](https://img.shields.io/badge/40-лет-darkorange) я осознал, что разработка интерфейсов доставляет мне удовольствие.
+В ![Age](https://img.shields.io/badge/40-лет-darkorange) осознал, что разработка интерфейсов доставляет мне удовольствие.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/paseek/">
@@ -13,28 +13,25 @@
 Помимо разработки я имею опыт управления проектами как в роли проджекта так и продукт менеджера, разбираюсь в диджитал маркетинге, могу быть аналитиком и тестировщиком. 
 Все это дает мне возможность видеть код не только как разработчик. 
 
-## Учеба
-:shipit: [**HtmlAcademy**][academy] профессия «Фронтенд-разработчик»<br>
-
 ## Опыт работы
+:shipit: [**eFon**][efon] фронтенд-разработчик
+
+## Опыт работы не связанный с разработкой.
 :shipit: [**Rambler**][r1] менеджер проектов<br>
 :shipit: [**V3Toys**][v3] руководитель проектов<br>
 :shipit: [**ActivityGroup**][actgr] проджект менеджер<br>
-:shipit: [**eFon**][efon] веб разработчик
+
+## Учеба
+:shipit: [**МАИ**][rgtu] степень магистра в области "Инженерная защита окружающей среды"<br>
+:shipit: [**HtmlAcademy**][academy] профессия «Фронтенд-разработчик»<br>
 
 
-[rgtu]: https://www.mati-rgtu.org/
+[rgtu]: https://mai.ru
 [r1]: https://rambler.ru
 [v3]: https://v3toys.ru
 [actgr]: https://activbtl.ru
 [efon]: https://efon.ru
 [academy]: https://htmlacademy.ru/profession/frontender
-
-
-
-
-Moscow State Aviation Technological University
-master’s degree, Environmental Engineering
 
 
 
