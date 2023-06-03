@@ -42,23 +42,6 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=paseek&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
 
-## Опыт работы не связанный с разработкой.
-:shipit: [**Rambler**][r1] менеджер проектов<br>
-:shipit: [**V3Toys**][v3] руководитель проектов<br>
-:shipit: [**ActivityGroup**][actgr] проджект менеджер<br>
-
-## Учеба
-:shipit: [**МАИ**][rgtu] степень магистра в области "Инженерная защита окружающей среды"<br>
-:shipit: [**HtmlAcademy**][academy] профессия «Фронтенд-разработчик»<br>
-
-
-[rgtu]: https://mai.ru
-[r1]: https://rambler.ru
-[v3]: https://v3toys.ru
-[actgr]: https://activbtl.ru
-[efon]: https://efon.ru
-[academy]: https://htmlacademy.ru/profession/frontender
-
 ## Проекты
 
 <br>
@@ -82,6 +65,22 @@
 </a>
 <br>
 
+## Опыт работы не связанный с разработкой.
+:shipit: [**Rambler**][r1] менеджер проектов<br>
+:shipit: [**V3Toys**][v3] руководитель проектов<br>
+:shipit: [**ActivityGroup**][actgr] проджект менеджер<br>
+
+## Учеба
+:shipit: [**МАИ**][rgtu] степень магистра в области "Инженерная защита окружающей среды"<br>
+:shipit: [**HtmlAcademy**][academy] профессия «Фронтенд-разработчик»<br>
+
+
+[rgtu]: https://mai.ru
+[r1]: https://rambler.ru
+[v3]: https://v3toys.ru
+[actgr]: https://activbtl.ru
+[efon]: https://efon.ru
+[academy]: https://htmlacademy.ru/profession/frontender
 
 
 <!--
