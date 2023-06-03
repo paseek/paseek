@@ -24,6 +24,13 @@
 ![SASS](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+<br>
+![Photoshop](https://img.shields.io/badge/Photoshop-E34F26?logo=adobephotoshop&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![Wordpress](https://img.shields.io/badge/wordpress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jirasoftware&logoColor=white&style=for-the-badge)
+![Redmine](https://img.shields.io/badge/Redmine-B32024?logo=redmine&logoColor=white&style=for-the-badge)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge)
 
 ## &#x1f4c8; Статистика
 <br>
