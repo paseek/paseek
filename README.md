@@ -10,8 +10,8 @@
   </a>
 </div>
 
-Помимо разработки я имею опыт управления проектами как в роли проджекта так и продукт менеджера, разбираюсь в диджитал маркетинге, могу быть аналитиком и тестировщиком. 
-Все это дает мне возможность видеть код не только как разработчик.
+Помимо разработки я имею опыт управления проектами как в роли проджекта так и продукт менеджера, разбираюсь в диджитал маркетинге, могу быть аналитиком и тестировщиком.<br> 
+Все это дает мне возможность <b>видеть код</b> не только как разработчик.
 <br>
 
 ## Опыт работы
@@ -47,7 +47,7 @@
 :shipit: [**V3Toys**][v3] руководитель проектов<br>
 :shipit: [**ActivityGroup**][actgr] проджект менеджер<br>
 
-## Учеба
+## ✍️ Учеба
 :shipit: [**МАИ**][rgtu] степень магистра в области "Инженерная защита окружающей среды"<br>
 :shipit: [**HtmlAcademy**][academy] профессия «Фронтенд-разработчик»<br>
 
@@ -59,6 +59,15 @@
 [efon]: https://efon.ru
 [academy]: https://htmlacademy.ru/profession/frontender
 
+## Проекты
+
+<br>
+
+<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
 
 
 <!--
